@@ -55,16 +55,3 @@ The goal of this project is to extract, clean, and analyze structured and unstru
 
 ---
 
-## ⚠️ Notes
-
-- The dataset used was pre-downloaded and structured for educational purposes.
-- No actual web scraping was performed as part of this implementation due to restrictions.
-- `nltk` and `wordcloud` libraries were excluded for minimal dependency.
-
----
-
-## ✅ Future Improvements
-
-- Automate the scraping pipeline using BeautifulSoup or Scrapy.
-- Enhance NLP using `spaCy` or `BERTopic` for topic modeling.
-- Export results
