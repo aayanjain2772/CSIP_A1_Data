@@ -1,4 +1,4 @@
-# 🗂️ Grant Data Scraping & Analysis Project
+# Grant Data Scraping & Analysis Project
 
 ## 📌 Objective
 
